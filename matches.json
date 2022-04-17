@@ -35,24 +35,6 @@
       }
   },
   
-   {
-    "descricao": "Eliminatórias Copa 2022",
-    "local": {
-        "nome": "Estadio Nacional",
-        "imagem": "TODO"
-      },
-      "mandante": {
-        "nome": "Chile",
-        "forca": 4,
-        "imagem": "https://bandeirasnacionais.com/data/flags/normal/cl.png"
-      },
-    "visitante": {
-        "nome": "Peru",
-        "forca": 3,
-        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png"
-      }
-  },
-  
   {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
