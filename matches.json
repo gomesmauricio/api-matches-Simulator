@@ -20,18 +20,18 @@
   {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
-        "nome": "Maracanã",
+        "nome": "Centenário",
         "imagem": "TODO"
       },
       "mandante": {
-        "nome": "Brasil",
+        "nome": "Uruguai",
         "forca": 5,
-        "imagem": "https://bandeirasnacionais.com/data/flags/normal/br.png"
+        "imagem": "https://bandeirasnacionais.com/data/flags/normal/uy.png"
       },
     "visitante": {
-        "nome": "Uruguai",
+        "nome": "Brasil",
         "forca": 4,
-        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
       }
   },
   
