@@ -20,13 +20,13 @@
   {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
-        "nome": "Hernando Siles",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hernando_Siles_Stadium_-_La_Paz.jpg"
+        "nome": "Etádio Centenário",
+        "imagem": "https://en.wikipedia.org/wiki/Estadio_Centenario#/media/File:Estadio_Centenario_2021.jpg"
       },
       "mandante": {
-        "nome": "Bolívia",
+        "nome": "Uruguai",
         "forca": 2,
-        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
+        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
       },
     "visitante": {
         "nome": "Brasil",
